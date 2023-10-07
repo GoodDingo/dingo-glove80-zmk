@@ -1,3 +1,6 @@
+[![Build](https://github.com/GoodDingo/dingo-glove80-zmk/actions/workflows/build.yml/badge.svg)](https://github.com/GoodDingo/dingo-glove80-zmk/actions/workflows/build.yml)
+----
+
 # MoErgo Glove80 Custom Configuration for ZMK
 
 ![MoErgo Logo](moergo_logo.png)
